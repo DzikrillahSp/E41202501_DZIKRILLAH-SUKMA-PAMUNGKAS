@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="judul">Implementasi Intent Explicit dan Implicit</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="activity_data">Pindah Activity dengan Data</string>
+    <string name="dial_phone">Pindah ke Dial Phone</string>
+    <string name="browser">Menuju Website Kampus</string>
+    <string name="new_activity">SELAMAT DATANG</string>
+</resources>
